@@ -1,9 +1,10 @@
 #MEAN Session Two
 
-##Tools of the trade - continued test
+##Tools of the trade - continued
 
 Github
 * [Github forking](https://help.github.com/articles/fork-a-repo/) 
+* [Github commenting](https://help.github.com/articles/markdown-basics/)
 
 Git  
 * [Git checkout](http://git-scm.com/docs/git-checkout)
@@ -11,15 +12,11 @@ Git
 * [Git push](http://git-scm.com/docs/git-push)
 * [Gitup.co](http://gitup.co/) - new new app for OSX that simplifies Git branching
 
-[Google fonts](https://www.google.com/fonts)
-
-[SASS features](http://sass-lang.com/guide): nesting, operators and the difference between SASS and SCSS
-
-Responsive design: breakpoints and images
-
-CSS pseudo selector: before
-
-CSS sprites and animation 
+* [Google fonts](https://www.google.com/fonts)
+* [SASS features](http://sass-lang.com/guide): nesting, operators and the difference between SASS and SCSS
+* Responsive design: breakpoints and images
+* CSS pseudo selector: before
+* CSS clearfix, sprites and animation 
 
 ##Objectives
 
@@ -28,9 +25,9 @@ Understand the basic principles of semantic HTML and the evolution of web develo
 * The Chrome Web Developer tool
 * [Package control](https://packagecontrol.io/) and [Emmet](http://emmet.io/) for [Sublime Text](http://www.sublimetext.com/)
 * Git branching and other workflow issues
-* CSS structure (clearfix)
+* CSS structure
 * Basic JavaScript principles
-* Remeber - starting a Python server  ```$python -m SimpleHTTPServer``` (or download Adobe Brackets)
+* Remember - starting a Python server  ```$python -m SimpleHTTPServer``` (or download Adobe Brackets)
 
 ##Assignment
 tbd
