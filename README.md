@@ -1,4 +1,4 @@
-#MEAN Session One
+#MEAN Session Two
 
 ##Tools of the trade
 
