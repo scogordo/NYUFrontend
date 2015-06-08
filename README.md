@@ -11,9 +11,11 @@ Git
 
 [Gitup.co](http://gitup.co/) - new new app for OSX that simplifies Git branching
 
+[Google fonts](https://www.google.com/fonts)
+
 ##Objectives
 
-Understand the basic principles of semantic HTML and the evolution of web development by updating a table-based layout to a standards-based layout. This session will cover:
+Understand the basic principles of semantic HTML and the evolution of web development. This session will cover:
 
 * Basic Terminal use: ls, cd, and starting a Python server  ```$python -m SimpleHTTPServer```
 * The Chrome Web Developer tool
