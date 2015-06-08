@@ -12,6 +12,7 @@ Git
 * [Git push](http://git-scm.com/docs/git-push)
 * [Gitup.co](http://gitup.co/) - new new app for OSX that simplifies Git branching
 
+Other
 * [Google fonts](https://www.google.com/fonts)
 * [SASS features](http://sass-lang.com/guide): nesting, operators and the difference between SASS and SCSS
 * Responsive design: breakpoints and images
