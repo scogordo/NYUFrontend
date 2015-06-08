@@ -20,14 +20,21 @@ Git
 
 ##Objectives
 
-Understand the basic principles of semantic HTML and the evolution of web development. This session will cover:
+Understand the basic principles of web development and its evolution. This session will cover:
 
 * The Chrome Web Developer tool
 * [Package control](https://packagecontrol.io/) and [Emmet](http://emmet.io/) for [Sublime Text](http://www.sublimetext.com/)
 * Git branching and other workflow issues
 * CSS structure
-* Basic JavaScript principles
-* Remember - starting a Python server  ```$python -m SimpleHTTPServer``` (or download Adobe Brackets)
+* Basic JavaScript DOM manipulation 
+
 
 ##Assignment
 tbd
+
+##Essentials
+```
+git config --global user.name "DannyBoyNYC"
+git config --global user.email "daniel.deverell@gmail.com"
+python -m SimpleHTTPServer
+```
