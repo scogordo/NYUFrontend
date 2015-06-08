@@ -34,7 +34,7 @@ tbd
 
 ##Essentials
 ```
-git config --global user.name "DannyBoyNYC"
-git config --global user.email "daniel.deverell@gmail.com"
+git config --global user.name "username"
+git config --global user.email "you@email.com"
 python -m SimpleHTTPServer
 ```
