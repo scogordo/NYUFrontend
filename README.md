@@ -26,7 +26,7 @@ Understand the basic principles of semantic HTML and the evolution of web develo
 * Git branching and other workflow issues
 * CSS structure (clearfix)
 * Basic JavaScript principles
-* Starting a Python server  ```$python -m SimpleHTTPServer```
+* Remeber - starting a Python server  ```$python -m SimpleHTTPServer``` (or download Adobe Brackets)
 
 ##Assignment
 tbd
