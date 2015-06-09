@@ -1,5 +1,8 @@
 #MEAN Session Two
 
+##Assignment
+See the readme at https://github.com/NYU-frontend/mean-session2/tree/version2
+
 ##Tools of the trade - continued
 
 Github
@@ -28,10 +31,6 @@ Understand the basic principles of web development and its evolution. This sessi
 * Git branching and other workflow issues
 * CSS structure
 * Basic JavaScript DOM manipulation 
-
-
-##Assignment
-tbd
 
 ##Essentials
 ```
