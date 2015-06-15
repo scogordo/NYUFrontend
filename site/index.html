@@ -6,7 +6,22 @@
 
   <title>My Portfolio</title>
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/step7.css">
   <script src="js/modernizr.js"></script>
+
+  <script type="text/javascript" charset="utf-8" src="js/jquery-1.4.2.js"></script>
+  <script>
+
+$(document).ready(function() {
+    $("#imageGallery a").click(function(){
+        $("#placeholder").attr("src", this.href);
+        $("#description").html(this.title);
+        $("#placeholder").attr("alt", this.title);
+        return false;
+    });
+});
+
+  </script>
 </head>
 <body>
   <main class="wrap group">
