@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #MEAN Session Two
 
 ##Assignment
@@ -38,3 +39,7 @@ git config --global user.name "username"
 git config --global user.email "you@email.com"
 python -m SimpleHTTPServer
 ```
+=======
+# NYUFrontend
+Homework and class notes from NYU class
+>>>>>>> d6f5a6a8ec848be816ff26b0c1411e99c793c3d1
